@@ -18,6 +18,8 @@ This project builds Kalibr inside a ROS docker image, and wraps Kalibr tools wit
 
 - Grab a coffe, building process takes around 20 minutes, depending on your computer performance and Internet connection speed.
 
+- If a proxy is needed, please read the build.sh file and you will know what to do next.
+
 ## Run
 
 - ```source ./setup.sh```
